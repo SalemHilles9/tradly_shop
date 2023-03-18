@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "834535701125",
+    "project_id": "tradly-shope",
+    "storage_bucket": "tradly-shope.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834535701125:android:5dee392b536c234d1e47ec",
+        "android_client_info": {
+          "package_name": "com.example.tradly_shope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834535701125-jnuj09elgiq3ucu9cf0b1bmp7m0jv07i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tradly_shope",
+            "certificate_hash": "d5192b214422a92674cd30ca216e578b11f96c3d"
+          }
+        },
+        {
+          "client_id": "834535701125-oprdspsipobf3fu50gadmuk4mlavhjd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1VM1nrXUUp7KRJADrtrcR5am3xSRaoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834535701125-oprdspsipobf3fu50gadmuk4mlavhjd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
